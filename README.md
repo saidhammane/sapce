@@ -1,6 +1,6 @@
 # Said Hammane — BI & Data Analyst Portfolio
 
-A lightweight, responsive portfolio focused on business intelligence, data modelling, reporting automation, and practical decision support.
+This repository contains a lightweight, responsive portfolio website for Said Hammane, focused on business intelligence, data modelling, reporting automation, and practical decision support.
 
 ## Highlights
 
